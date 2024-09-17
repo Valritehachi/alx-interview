@@ -9,4 +9,3 @@ print(makeChange([1, 2, 25], 37))
 
 print(makeChange([1256, 54, 48, 16, 102], 1453))
 
-carrie@ubuntu:~/0x08-making_change$

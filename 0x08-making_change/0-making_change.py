@@ -3,6 +3,7 @@
    to get to a given total
 """
 
+
 def makeChange(coins, total):
     """This function makes changes to coins and 
     calculates that change.
